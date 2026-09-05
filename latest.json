@@ -1,0 +1,15 @@
+{
+  "version": "0.1.66",
+  "notes": "- Keep the pane controls in one place and drop the subject-kind badge\n- Seat the pane trigger inside the side panel and finish dark mode",
+  "pub_date": "2026-09-05T11:41:23.403Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://jh-plask.github.io/boodoo-releases/releases/0.1.66/boodoo-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMzRmOHd5MUo3RTZQbmhyRTR4WUg4elpZbHRXVy9XZy9JeHdNTlRSbmQrT1pjdnNHTDZYQTJTOW80dEZMU1grMXVmV2tPUHQ4QW5CRlN1bVBjNENYWGFhellQR2ZzaEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjA4NDMxCWZpbGU6Qm9vZG9vLmFwcC50YXIuZ3oKaWdPYVZiWkQ3VFRRTE9OVk9vTkJXbFl0TEI0WmZ5VkdmbWh4NFMwUHhRd1hqNEMzSjh3alphcWNORXYveVpCOXJJdnJPQ09Kdy83ZUVkVWtUL2NkQXc9PQo="
+    },
+    "darwin-aarch64-app": {
+      "url": "https://jh-plask.github.io/boodoo-releases/releases/0.1.66/boodoo-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMzRmOHd5MUo3RTZQbmhyRTR4WUg4elpZbHRXVy9XZy9JeHdNTlRSbmQrT1pjdnNHTDZYQTJTOW80dEZMU1grMXVmV2tPUHQ4QW5CRlN1bVBjNENYWGFhellQR2ZzaEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjA4NDMxCWZpbGU6Qm9vZG9vLmFwcC50YXIuZ3oKaWdPYVZiWkQ3VFRRTE9OVk9vTkJXbFl0TEI0WmZ5VkdmbWh4NFMwUHhRd1hqNEMzSjh3alphcWNORXYveVpCOXJJdnJPQ09Kdy83ZUVkVWtUL2NkQXc9PQo="
+    }
+  }
+}
